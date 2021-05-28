@@ -23,7 +23,7 @@ For further questions please raise an issue [here](https://github.com/Kangjoo/Ar
 
 * Neuroimaging Analysis Kit ([NIAK](https://github.com/SIMEXP/niak)) - preferred version: niak-boss-0.13.0.  
 
-* SPM8 or SPM12 is required to process pupillometry data.
+* [SPM8](https://www.fil.ion.ucl.ac.uk/spm/software/spm8/) or [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) is required to process pupillometry data.
 
 ------------
 # Citation
