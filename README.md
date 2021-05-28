@@ -1,4 +1,4 @@
-# Yale-arousal-rsfMRIpupil-hub
+# arousal-rsfMRIpupil-hub
 
 * `SPARK_fMRI_pupillometry.m` performs a four-step analysis: 
 
