@@ -1,4 +1,4 @@
-# Arousal_RSfMRI_Hub
+# arousal-rsfMRI-Hub
 
 * SPARK_fMRI_pupillometry.m performs a four-step analysis: 
 
