@@ -2,8 +2,6 @@
 
 * `SPARK_fMRI_pupillometry.m` performs a four-step analysis: 
 
-         function [FILES_OUT] = SPARK_fMRI_pupillometry(FILES_IN,OPT)
-         % Perform a four-step analysis: 
          % (STEP 1) Pupillometry processing
          % (STEP 2) State stratification of fMRI data using pupillometry
          % (STEP 3) Bootstrap resampling of state-stratified fMRI data
