@@ -12,7 +12,7 @@
 
 * Other scripts to implement the remainings of the SPARK analysis, such as the parallel implementation of the sparse dictionary learning, spatial K-means clustering, background noise removal, and k-hubness estimation, can be found and adapted from [SPARK](https://github.com/multifunkim/spark-matlab).   
 
-* SPARK_fMRI_HDI.m computes the hub disruption index (HDI) to compare k-hubness estimated from fMRI data in two arousal states, e.g., high and low arousal.
+* SPARK_HDI.m computes the hub disruption index (HDI) to compare k-hubness estimated from fMRI data in two arousal states, e.g., high and low arousal.
 
 ------------
 # Requirements
