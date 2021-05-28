@@ -2,13 +2,7 @@
 
 * `SPARK_fMRI_pupillometry.m` performs a four-step analysis: 
 
-           (STEP 1) Pupillometry processing.
-
-           (STEP 2) State stratification of fMRI data using pupillometry
-
-           (STEP 3) Bootstrap resampling of state-stratified fMRI data
-
-           (STEP 4) Sparse dictionary learning of resampled data
+https://github.com/Kangjoo/arousal-rsfMRIpupil-hub/blob/c418b16da19dc68bfe6034fd7a00ca5f2d9ea3c5/SPARK_fMRI_pupillometry.m#L1-L9
 
 * Other scripts to implement the remainings of the SPARK analysis, such as the parallel implementation of the sparse dictionary learning, spatial K-means clustering, background noise removal, and k-hubness estimation, can be found and adapted from [SPARK](https://github.com/multifunkim/spark-matlab).   
 
