@@ -14,6 +14,8 @@
 
 * SPARK_HDI.m computes the hub disruption index (HDI) to compare k-hubness estimated from fMRI data in two arousal states, e.g., high and low arousal.
 
+For further questions please raise an issue [here](https://github.com/Kangjoo/Arousal_RSfMRI_Hub/issues)
+
 ------------
 # Requirements
 
