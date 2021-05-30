@@ -25,3 +25,4 @@ For further questions please raise an issue [here](https://github.com/Kangjoo/Ar
 
 If you use this library for your publications, please cite it as:
 
+Kangjoo Lee, Corey Horien, David O’Connor, Bronwen Garand-Sheridan, Fuyuze Tokoglu, Dustin Scheinost, Evelyn M.R. Lake, R. Todd Constable, “Arousal impacts distributed hubs modulating the integration of brain functional connectivity”, (Submitted)
