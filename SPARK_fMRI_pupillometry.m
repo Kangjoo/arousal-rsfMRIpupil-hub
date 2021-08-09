@@ -146,6 +146,8 @@ for mdl_iter=1%:10
     initklist(mdl_iter)=opt.param{mdl_iter}.initk;
     netscalelist(mdl_iter)=opt.param{mdl_iter}.net_scale;
 end;
+final_initk=round(median(initklist));
+final_netscale=round(median(netscalelist));
 
 
 % Sparse Dictionary Learning 
